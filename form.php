@@ -25,5 +25,6 @@
         
         <button type="submit">Submit</button>
     </form>
+    <a href="feature1.php">Go to Feature 1 - José Alonso</a>
 </body>
 </html>
